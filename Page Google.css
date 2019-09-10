@@ -1,0 +1,65 @@
+*
+{
+  font-family: Arial
+  margin: auto;
+}
+
+h1
+{
+border: 3px blue solid
+border-radius: 20px
+width: 50 px;
+height : 40px
+
+}
+.logo
+{
+ margin-left: 35%
+}
+.top
+{
+margin-left: 85%
+}
+
+.image
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.site
+  {
+    display:flex;
+    flex-direction: row-reverse;
+  }
+.item
+{
+  margin:0.5%;
+
+}
+.container
+{
+  display:flex;
+  flex-direction:column;
+  justify-content: space-between;
+  min-height: 100vh;
+
+}
+.zone1
+{
+  display: flex;
+  justify-content: center;
+  }
+
+.zone2
+{
+  display: flex;
+  justify-content: center;
+}
+
+.foot1
+{
+  display: flex;
+  justify-content: center;
+  align-items:flex-start;
+}
